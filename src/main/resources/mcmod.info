@@ -1,16 +1,18 @@
 [
-{
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+  {
+    "modid": "storeyboi",
+    "name": "StoreyBoi",
+    "description": "A Minecraft Forge mod inspired by Applied Energistics and Refined Storage but with what I consider improvements :)",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/cjburkey01/storeyboi",
+    "updateUrl": "",
+    "authorList": [
+      "CJ Burkey"
+    ],
+    "credits": "The Forge and FML guys, for making Forge and FML",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
 ]
